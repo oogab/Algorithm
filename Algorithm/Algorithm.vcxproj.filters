@@ -36,8 +36,5 @@
     <ClCompile Include="13023_ABCDE.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="JO\jo_105.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

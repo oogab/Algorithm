@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="13023_ABCDE.cpp" />
-    <ClCompile Include="JO\jo_105.cpp" />
     <ClCompile Include="jo_105.cpp" />
     <ClCompile Include="jo_505.cpp" />
     <ClCompile Include="jo_508.cpp" />
