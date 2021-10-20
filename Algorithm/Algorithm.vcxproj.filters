@@ -24,16 +24,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="jo_105.cpp">
-      <Filter>소스 파일\JO</Filter>
+    <ClCompile Include="BOJ\boj_2667.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="jo_505.cpp">
-      <Filter>소스 파일\JO</Filter>
-    </ClCompile>
-    <ClCompile Include="jo_508.cpp">
-      <Filter>소스 파일\JO</Filter>
-    </ClCompile>
-    <ClCompile Include="13023_ABCDE.cpp">
+    <ClCompile Include="BOJ\boj_13023.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>

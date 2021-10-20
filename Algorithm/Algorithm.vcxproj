@@ -139,10 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="13023_ABCDE.cpp" />
-    <ClCompile Include="jo_105.cpp" />
-    <ClCompile Include="jo_505.cpp" />
-    <ClCompile Include="jo_508.cpp" />
+    <ClCompile Include="BOJ\boj_13023.cpp" />
+    <ClCompile Include="BOJ\boj_2667.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
