@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="BOJ\boj_13023.cpp" />
     <ClCompile Include="BOJ\boj_2667.cpp" />
+    <ClCompile Include="BOJ\boj_9019.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
