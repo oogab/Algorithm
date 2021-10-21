@@ -23,9 +23,4 @@
       <UniqueIdentifier>{b3019531-4409-4854-9c7e-d55f48f57389}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="BOJ\boj_1525.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
