@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOJ\boj_1525.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,15 +141,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="BOJ\boj_13023.cpp" />
-    <ClCompile Include="BOJ\boj_2667.cpp" />
-    <ClCompile Include="BOJ\boj_9019.cpp" />
-    <ClCompile Include="JO\jo_105.cpp" />
-    <ClCompile Include="JO\jo_505.cpp" />
-    <ClCompile Include="JO\jo_508.cpp" />
-    <ClCompile Include="Programmers\pg_42889.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
